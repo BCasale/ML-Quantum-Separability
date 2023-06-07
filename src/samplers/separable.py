@@ -1,7 +1,7 @@
 """
 Contain methods to sample separable density matrices
 """
-from QUSEDA.src.types import DMStack
+from ..types import DMStack
 from utils import kron, balanced
 
 import numpy as np
