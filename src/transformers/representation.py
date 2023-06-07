@@ -2,7 +2,7 @@
 Contain real-valued vector representation for density matrices
 """
 
-from QUSEDA.src.types import DMStack
+from ..types import DMStack
 
 import numpy as np
 
