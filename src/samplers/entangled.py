@@ -4,7 +4,7 @@ Contain methods to sample entangled density matrices
 
 import numpy as np
 
-from QUSEDA.src.types import DMStack
+from ..types import DMStack
 from utils import balanced, RandomUnitary, dagger
 
 class AugmentedPPTEnt :
