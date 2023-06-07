@@ -2,9 +2,9 @@
 Contain methods to obtain the separable approximation of a quantum state
 """
 
-from QUSEDA.src.types import DMStack
-from QUSEDA.src.samplers.pure import RandomHaar
-from QUSEDA.src.samplers.utils import kron, dagger
+from ..types import DMStack
+from ..samplers.pure import RandomHaar
+from ..samplers.utils import kron, dagger
 
 import numpy as np
 
