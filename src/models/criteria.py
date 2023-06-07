@@ -2,7 +2,7 @@
 Contain various separability criteria / entanglement witnesses
 """
 
-from QUSEDA.src.types import Label
+from ..types import Label
 
 import numpy as np
 
