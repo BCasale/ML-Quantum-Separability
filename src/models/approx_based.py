@@ -2,7 +2,7 @@
 Contain approximate methods to detect separability
 """
 
-from QUSEDA.src.types import Label
+from ..types import Label
 
 import numpy as np
 
