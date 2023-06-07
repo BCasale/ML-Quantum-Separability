@@ -2,7 +2,7 @@
 Contain utility functions for sampling
 """
 
-from QUSEDA.src.types import DMStack
+from ..types import DMStack
 
 import numpy as np
 
