@@ -4,7 +4,7 @@ Contain methods to sample mixed density matrices
 
 import numpy as np
 
-from QUSEDA.src.types import DMStack
+from ..types import DMStack
 from utils import RandomGinibre, RandomUnitary, dagger, balanced
 
 class RandomInduced :
